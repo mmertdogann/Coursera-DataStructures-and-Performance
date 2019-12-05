@@ -14,4 +14,18 @@ Here's an image of a higher flesch score:
 
 Here's an image of a lower flesch score:
 
-![Lower Score](flesclow.png)
+![Lower Score](fleschlow.png)
+
+###Spell Suggestion
+
+> In this section, the text editor program warns you when you type wrong words.
+
+Here's an image of the spell suggestion:
+
+![Suggestion](spellsuggestion.png)
+
+> In this section, the text editor program completes your typings with semantic words.
+
+Here's an image of the autocompletion:
+
+![Autocomplete](autocomplete.png)
